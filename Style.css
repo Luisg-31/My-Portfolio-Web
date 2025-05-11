@@ -148,7 +148,7 @@ h6 {
 }
 
 .image_box {
-  max-width: 800px;
+  max-width: 959px;
   margin: 40px auto;
   padding: 1px;
   text-align: center;
@@ -160,6 +160,6 @@ h6 {
 .image_box img {
   width: 100%;
   height: auto;
-  border-radius: 8px;
+  border-radius: 44px;
   display: block;
 }
